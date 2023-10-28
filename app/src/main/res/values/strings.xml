@@ -1,0 +1,4 @@
+<resources>
+   <string name="app_name">RoomListComposeUI</string>
+   <string name="text_dummy">Текст пустышка</string>
+</resources>
